@@ -1,0 +1,22 @@
+{
+  "name": "@bogdanchil/npm_0",
+  "version": "1.0.0",
+  "description": "how to npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "how-to-npm"
+  ],
+  "author": "Bogdan",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chilianubogdan/npm_0.git"
+  },
+  "bugs": {
+    "url": "https://github.com/chilianubogdan/npm_0/issues"
+  },
+  "homepage": "https://github.com/chilianubogdan/npm_0#readme"
+}
